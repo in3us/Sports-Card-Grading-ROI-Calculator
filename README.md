@@ -1,4 +1,4 @@
-# Sports Card Grading ROI Calculator
+# Sports and Pokemon Card Grading ROI Calculator
 This spreadsheet is designed to evaluate the profitability of buying raw sports and Pokemon cards and submitting them for professional grading. It helps translate raw purchase prices and grading outcomes into expected ROI by modeling gem rates, grading costs, and sale prices.
 
 [Sports Card Grading ROI Calculator](https://1drv.ms/x/c/5e0b3f01f8fd7272/IQB4BnuYE-QPSZDdeKoW4FAmAbtSEYE-BpE12GexmO1RUwQ)
